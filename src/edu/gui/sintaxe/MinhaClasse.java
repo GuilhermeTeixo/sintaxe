@@ -3,7 +3,7 @@ public class MinhaClasse {
     public static void main(String[] args) {
 
         String primeiroNome="Guilherme";
-        String segundoNome="Teixeira";
+        String segundoNome="Teixo";
 
         String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
 
